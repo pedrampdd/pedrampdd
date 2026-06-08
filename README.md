@@ -16,18 +16,6 @@ Infra       Kubernetes · Docker · Helm · Istio · Envoy · ArgoCD · Jenkins 
 Observe     Prometheus · Grafana · Tempo · Graylog
 Practices   TDD · BDD · SOLID · ACID · Scrum
 ```
-
----
-
-#### 🚀 What I've shipped
-
-- **600K+ RPS gRPC service** at Tapsi — full design through k8s deployment, with circuit breakers + retries + idempotency that cut payment incidents 60% on dispatch flows.
-- **Liquid Gold** at Digikala — real-time digital gold trading backed by physical reserves (regulated financial instrument), 5K+ users in Q1.
-- **Payment APIs** at Digikala — 1M+ transactions/month for a regulated digital-products vertical, contributing to a 15%+ lift in platform sales.
-- **Kafka pipelines** at Fanap — chained Go microservices over async event streams, deployment lead time cut from weeks to days.
-
----
-
 #### 📫 Reach me
 
 - 🌐 [pedrampdd.github.io](https://pedrampdd.github.io)
