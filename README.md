@@ -1,6 +1,6 @@
 ### Hi, I'm Pedram 👋
 
-Senior Go backend engineer based building high-throughput, payment-critical systems in fintech for the last 7 years. Currently at **[Tapsi](https://tapsi.ir)**, where I own a gRPC microservice handling **600K+ RPS at <7ms p50**.
+Senior Go backend engineer based building high-throughput, payment-critical systems in fintech for the last 7 years. 
 
 I care about: clean service contracts, idempotent state machines, well-tested concurrency, and observability that actually pays for itself when you're on call at 3am.
 
